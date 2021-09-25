@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Wei Chen",
+        "id": 1,
+        "Position": "Professor at NUPT",
+        "Gender": "Male",
+        "Country": "China",
+        "Salary": 210000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Wc8IvR4AAAAJ&citpid=3"
+    },
+    {
+        "name": "JIANSHENG WU",
+        "id": 2,
+        "Position": "Professor at NUPT",
+        "Gender": "Male",
+        "Country": "China",
+        "Salary": 190000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=U8zggigAAAAJ&citpid=2"
+    },
+    {
+        "name": "Miao Liu",
+        "id": 3,
+        "Position": "Associate Professor  at NUPT",
+        "Gender": "Male",
+        "Country": "China",
+        "Salary": 120000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=E2IN190AAAAJ&citpid=1"
+    },
+    {
+        "name": "Hao Gao",
+        "id": 4,
+        "Position": "Professor at NUPT",
+        "Gender": "Male",
+        "Country": "China",
+        "Salary": 130000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hMBA1REAAAAJ&citpid=2"
+    },
+    {
+        "name": "lei chen",
+        "id": 5,
+        "Position": "Professor at NUPT",
+        "Gender": "Male",
+        "Country": "China",
+        "Salary": 140000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=n8WF5kEAAAAJ&citpid=3"
+    },
+    {
+        "name": "Yun Li",
+        "id": 6,
+        "Position": "Professor at NUPT",
+        "Gender": "Male",
+        "Country": "China",
+        "Salary": 150000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oF-3qBEAAAAJ&citpid=3"
+    },
+    {
+        "name": "Ali Ramazani",
+        "id": 7,
+        "Position": "Professor at MIT",
+        "Gender": "Male",
+        "Country": "USA",
+        "Salary": 160000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DhdyzwIAAAAJ&citpid=4"
+    },
+    {
+        "name": "Charles E. Leiserson",
+        "id": 8,
+        "Position": "Professor at MIT",
+        "Gender": "Male",
+        "Country": "USA",
+        "Salary": 170000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gWBoNCsAAAAJ&citpid=2"
+    },
+    {
+        "name": "John R. Hauser",
+        "id": 9,
+        "Position": "Professor at MIT",
+        "Gender": "Male",
+        "Country": "USA",
+        "Salary": 180000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=N6s8mO4AAAAJ&citpid=3"
+    },
+    {
+        "name": "Daniela Rus",
+        "id": 10,
+        "Position": "Professor at MIT",
+        "Gender": "Female",
+        "Country": "USA",
+        "Salary": 110000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=910z20QAAAAJ&citpid=3"
+    },
+    {
+        "name": "Pattie Maes",
+        "id": 11,
+        "Position": "Professor at MIT",
+        "Gender": "Female",
+        "Country": "USA",
+        "Salary": 140000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=r81Ss1cAAAAJ&citpid=1"
+    },
+    {
+        "name": "Moe Win",
+        "id": 12,
+        "Position": "Professor at MIT",
+        "Gender": "Male",
+        "Country": "USA",
+        "Salary": 240000,
+        "img": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qRd8Hh4AAAAJ&citpid=2"
+    }
+]

@@ -1,0 +1,13 @@
+.lab-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.professor-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 15px;
+    margin-left: 50px;
+   text-align: center;
+    margin-right: 10px;
+    padding: 10px;
+}

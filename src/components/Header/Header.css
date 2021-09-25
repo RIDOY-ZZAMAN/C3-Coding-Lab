@@ -1,0 +1,8 @@
+.header{
+    text-align: center;
+    border:2px solid rgba(0, 0, 0, 0.664);
+    margin: 5px 10px;
+    border-radius: 5px;
+    background-color: #6128EC;
+    color: white;
+}

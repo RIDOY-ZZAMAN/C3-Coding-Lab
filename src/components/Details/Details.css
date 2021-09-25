@@ -1,0 +1,10 @@
+.btn-selection{
+    height: 30px;
+    cursor: pointer;
+    background-color: indianred;
+    border:1px solid lightgray;
+    border-radius: 5px;
+    color: white;
+    width: 300px;
+    
+}
